@@ -2,14 +2,17 @@
 <img src="media/cover.png">
 </h1> 
 
-# Heimdall
+# 👁️ Heimdall
 Heimdall converts 2D images into seamless, realistic 3D maps using Gaussian splatting. Our innovative approach delivers unparalleled detail and accuracy, making it ideal for urban planning, virtual reality, architectural design, and environmental monitoring.
 
    - Improved virtual tourism 
    - Better navigation 
    - Improved urban planning
 
-## 📃 Preview
+## 🔑 Workflow chart
+<img src="media/poster.png">
+
+# 📃 Preview
 ### Real world statue scan
 <img src="media/tiger.gif">
 
